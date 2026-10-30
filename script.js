@@ -5,7 +5,7 @@
   2) Update social links in index.html when you have your real profile URLs.
 */
 const CONFIG = {
-  whatsappNumber: "923000000000"
+  whatsappNumber: "923370367496"
 };
 
 const menuToggle = document.getElementById("menuToggle");
